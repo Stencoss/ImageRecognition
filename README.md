@@ -43,4 +43,3 @@ To solve this problem we used the GTSRB - (German Traffic Sign Recognition Bench
 ![MoreDropAcc](MoreDropAcc.png "Title")
 ![MoreDropLoss](MoreDropLoss.png "Title")
 
-## Techniques Used
